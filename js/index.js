@@ -101,7 +101,7 @@ nav.addEventListener("onscroll", () => {
 
 // mouseDown 
 
-const location = document.querySelector('.content-destination h2');
-location.addEventListener ('onmousedown', () => { 
-location.style.border = '2px dotted orange'
-})
+// const location = document.querySelector('.content-destination h2');
+// location.addEventListener ('onmousedown', () => { 
+// location.style.border = '2px dotted orange'
+// })
